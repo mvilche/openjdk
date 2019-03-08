@@ -1,4 +1,4 @@
-# OPENJDK 8
+# OPENJDK 8 CENTOS 7
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
