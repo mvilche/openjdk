@@ -1,4 +1,4 @@
-# OPENJDK 8 DEBIAN 9
+# OPENJDK 8
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
